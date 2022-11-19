@@ -5,8 +5,8 @@ window.setTimeout(
     function () {
         loder.style.opacity = '0';
         lode.style.opacity = '0';
-    } ,100 ,
+    } ,1000 ,
     function () {
         lode.style.display = 'none';
-    } ,150 
+    } ,1500 
 )
